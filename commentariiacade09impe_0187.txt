@@ -1,0 +1,46 @@
+DE MAXIMIS IN FI‘G'VR'IS RECTILINEIS. 139
+
+Lemma Ι.
+
+Area Trianguli AB C aequatur dimidio Refft‘angulo ex
+duobus quibusuis Lateribus A B, A C v. gr. in finum an-
+
+guli intercepti A dum (posto s nu toto z 1)
+
+DemonstratiO.
+
+Sit Triangulum ABC et ducatur v. gr. BD perpen pag ες,
+dicularis in AC, fitque finus anguli BAC: x, area Tri-
+an'guli ΑΒΕ aequalis erit flusto ex dimidia BD m AC,
+
+seu AC BD ‚Quid autem substituendum fit loco BD, repe-
+rietur faciendo hanc analogiam, vt AB ad BD·‚ ita fi-
+nus totuS, ad smum anguli BAC, seu AB: BDz1zx.
+‘Ergo AB. xzssD et proinde area T rianguh, ponen-
+· do AB. x pto BD, :²⁸⁰2Rx. Cum autem finus an·-
+
+guli cuiuscunque acuti, pofitiuus sumum, pofitiuus quo-
+que maneat, fi in alteram partem cadat, id est fi angu-
+lus fiat obtusu5‚ sequitur aream Trianguli semper effe :-
+
+’ὶ-ΛΒΑΟπ Q E D
+
+ 
+
+ 
+
+ 
+
+Lemma ΙΙ.
+
+In Triangulo quocunque A Β C ‚ quadratum cuiusuis Figu ura ις
+lateris aequale est quadratis reliquorum laterum, minus du-
+plo rebiangulo eorundem laterum in cofinum anguli inte} c epti,
+Jcil υ. gr. BC² .--.--ΑΒ2 --1--AC2 -2AB. AC in cos. A
+(posttoz finu toto ΣΙ).
+
+DemonstratiO.
+
+Dusta, v. gr. BD normali in AC, vt supra, et
+smu anguli BAC vocato ag, 2erit BC² :BD2 -Js-ACZC—
+

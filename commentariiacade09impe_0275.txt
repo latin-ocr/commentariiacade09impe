@@ -1,0 +1,43 @@
+CIRCVLI ‘QVADRATVRAM PROXIME EXPR.227·
+
+ξ, 8. Ope huius seriei etiam reuera a Geometris
+Anglis ratio diametri ad periplieriam in fluctionibus de·-
+cimalibus vsque ad 74 figuras exusta est· determinata,
+atque integer calculus extat in tabulis mathematicis a
+Scharpio aliisque editis. Maxima autem huius calculi·
+difficultas in hoc consistit, quod ante onmia radicem
+quadratam ex 3 in frac'tionibus decimalibus ad tot figuf«
+ras extrahi oportet, ad quot ratio quaesita exafta esse
+debet. Inuenta autem flactione decimali ad 100 v. gr.
+figuras iusta, quae ipsi 2V3 seu Vm fit aequalis, tum
+haec {iaetio continuo per 3 est diuidenda, quo obtinean-
+
+tur termini
+
+243 243 2v³ zvx
+Τ, Τ, τῖ’ *3³- etc.
+
+Quo fasto isti termini succeffiue per numeros impares
+1. 3, 5, 7, etc. sunt diuidendi, vt prodeant ipfi seriei
+termini
+
+323 323 243 243
+
+12 > 2722 ffetc.
+
+· Denique summa terminorum ordine parium a summa or-
+· dine imparium subtrahatur, et residuum dabit valorem
+
+peripheriam circuli exprimentem , cuius diameter est ..-; 1.
+
+§. 9. Antequam autem exponam, quomodo ope
+eiusdem seriei, qua arcus ex data tangente exprimitur,
+proxima ratio diametri ad peripheriam multo facilius et
+exactius definiri queat, conueniet compendium aliquod
+monstrasse, cuius beneficio huiusmodi serierum summa
+multo leuiori opera inueniri poterit. Scilicet cum arcus
+tangenti ᾗ, respondens fit
+
+:sy- ss—i-ss-s-ssv -÷- etc.
+ff 2 Hu«
+

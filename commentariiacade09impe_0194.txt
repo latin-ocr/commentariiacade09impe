@@ -1,0 +1,50 @@
+Figura ς.
+
+146 DE MAXIMIS
+
+Scholion.
+
+Huius problematis geometrica demonstratio plane ea·-
+dem est quae praecedenti5‚ vel potius problematis se-
+cundi. Alterum enim haud absimile multum alteri, nul-
+lumque aliud interest discrimen , nisi quod varie limite·
+tur longitudo laterum AB et AC
+
+Problema ς.
+
+Dato perimam, determinare latera‘,‚ quo* triangulmn
+fiat maximae capacitati&
+
+Solutio.
+
+Ex praecedentis. problematis solutione iam fit ma-
+nifestum hoc in casu duo· latera ad minimum futura ae·-
+qualia , cum superior demonstratio· pro quolibet angulo
+valeat3 quapropter· superest tantum- vt tertium quaeratur
+latus· Id quidem. eodem: qui in praecedentibus proble-
+matis adhibitus- est modo ‚2 inueniri potest '⁷‘ sed praestabit
+alia ,. eaque compendiosiore via aggredi„ Sit ergo sum-
+ma laterum za, et latera aequalia ,. v. gr.v AB. Actae,
+proinde Β C: a —-—— 2 v et quaeratur perpendicu-
+
+lum ADoquod erit :V(BA2 ——BD2'1):¹“ “ae‘a—ffl.
+
+Ducatur nunc hoc perpendiculum in dimidiam BC, vt
+
+habeatur area triangul} A B C? quae· maxima poni deliet ,
+vrtax-sea )(a--2x)⁴
+
+ 
+
+ 
+
+ 
+
+ 
+
+erit igitur M clximum' et proinde eius
+differentia 2 a a d r — 6a t dt z ο, vnde elicitur „15:⁶3² et ᾖ
+per consequens quoque B C: ...ιζ Q· E· Ι.
+
+. Corol-
+

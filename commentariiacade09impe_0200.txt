@@ -1,0 +1,50 @@
+Figura 6.
+
+ι 52 DE MAXIMJS
+
+Si smus anguli C assumtus fuifl‘et datm„ haec pro-
+diiss‘et aequatio azyV(1-xx) (x z smui anguli B),
+vnde pari modo pe1.picere licet latus BD itidem hy.
+pothenusam effe in triangulo ADB (dudta Diagonali AD).
+
+QE. 1.
+
+Schofion.
+
+Ex Solutione Problematis primi de triangulis {heile
+concludere licuiffet hoc ita fore, quippe quod nihil aliud
+hic quaeratur nisi tertium latus in triangulo BCD, cuius
+duo latera dautur. At demonstratum est haec duo la·-
+teta fibi inuicem normalia effe debere.
+
+Problema ζ,
+
+Datis iisdem tribus lateribus, sed cum angulo B vel D,
+determinare szdrngulum maximum.
+
+Solutio.
+
+Lateribus vt antea n1111cupati5‚ fit v. gr. finus anguli
+
+Dzm et finus anguli A: ..x Differentiale areae qua-
+
+axb x-÷-c ατη -- ⁷ ·
+-- quae maxima ponitur, erit -0,·sc1·-
+
+ 
+
+drilateri
+licet abdx÷c7ndyzo3 vnde dx:*a{‚⁷² ay ,sed dx in-
+uenitur -ί-ἰὲᾈ-ψ-ῑῑ-Ξ-έ- ”² per posterius lemma
+quo ΒΟ -ῐα2 —1—-b2 -2abV(1--x.x)::c² ÷y² —-2cy
+’ΥΠ m2). Est ergo ἷ-ζέξῑΞγ-σγ( 1 -m2 >et vtrinque
+sumendo quadrata ς’-Ῑῇ-Υ -†-c² -2cy l(1—-m² )-ε2φη2,
+
+ 
+
+ 
+
+seu -3-52-5-0--3322 -4-c2 —2cyV(1-m².> Erit quoque per
+
+consequens ,ἑῇ-ΖΒΘ. Nune vero ob triplicem ipsine?
+

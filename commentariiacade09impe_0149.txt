@@ -1,0 +1,52 @@
+DE FRACTIONIRVS CONTINVIS. 101
+
+vbi numeratores sunt quadrata numerorum imparium, de·-
+nominatores vero 2. Q-ua autem via Brouncloerus in
+hanc expreffionem inciderit, non conspr, atque merito
+foret dolendum, fi eius methodus periiffet3 cum non fit
+dubitandum, quin eadem methodo plura praeclara in hoe
+genere exhiberi poss‘ent. W callistus quidem, dum hanc fra-
+stionem recenset, ipse demonstrationem concinnare est
+conatus, quae autem minus est genuina, atque penitus ab
+austeris methodo diuersa effe videtur. W'allifius autem
+hanc totam inuentionem deriuat ex sequente theoremate
+
+quod fit:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a²:·..(a-1)—{-1 -Ι (a-†-1)-†-1 —d
+2(a-1)-—†-9' 2(a—}—1)-}—9 ‘-
+2(a-1)†25 2(a-†—1)÷25
+2(a-1)etc. 2(a-}-1)
+
+cuius veritatem per induitionem satis confirmat, sed, quod
+caput est, analysm non affert, qua ad hoc theorema fit
+peruentum.
+
+ς. ς. Commode autem atque facile ex data huius-
+modi fraffione continua valor eius vero proximus potest
+determinari, quin et limites defimre licet, intra quos ve-
+rus valor contineatur, vt, fi quadratura quaepiam ‘vel alia
+quantitas transcendens hoc modo fuerit expressa ‚ facili ne-
+gotio ea ipsa proxime affignari queat. Ostendam hoc ex
+generali frastionum continuarum forma:
+
+Na α-ὶ*
+

@@ -1,0 +1,41 @@
+Figura 3.
+
+Figura ι.
+
+142 - DE ›MAXIMIS
+
+cum aequatur radi0‚ seu sinui anguli recti. Proinde vt
+‘¹323 sit maximum, neceffe est, vtxsit sinus anguli recti.
+
+Idem etiam ope‘vulguris geometriae palam sit‚‘ fi
+concipiatur triangulum ABC super basi, v. gr. AC et
+alterum latus BA perpendiculare erectum ad parallelas AC
+et BD. Tum enim primo adspectu patet, quaquaversus
+inclinetur AB, altitudinem trianguli ABC minorem
+reddi, et consequenter aream , quae altitudini in dimidi-
+am basim ductae semper aequalis est , minorem futuram.
+
+Pro blema 2 .
+Dato latere Β C et summa laterum A B -Ρ- Α C, ina
+uenire vtrumque, ita vt triangulum fit maxime capax„
+
+Solutio. ν
+Sit BCza , AB÷AC:b‚ AB:y‚ proindeque
+A C :b - y. Sitque praeterea sinus anguli B A C :z x.
+Ope prioris lemmatis obtinebitur area trianguli A B C Σ
+
+(ΗΞ-ΗΕ quae cum maxima ponatur , erit eius differentia
+aequanda nihilo ‚ quare fiet (b—y)ydx:( 2y-bwcdy et
+
+ᾱχΞΕΞ-ξὲζζῳ. Ope vero posterioris fit ΒΕΖ, id est
+
+aazbb—-zby-ff-zyy—2(by-yy)V(1-xx),cuius dif-
+ferentia estdy((zyaeb)V(1—xx'J—f—(zy-szt-xxU
+-ἡ-ιῖΜόψΝᾙΞΟ, quae, si substituatur loco dx, eius
+valor superius inuentus et per dy diuidatur, mutabitur in
+hanc(2y—-b)'V(1--xx)-†-(2y-b):0. Vnde diuiden-
+do per V(1-xx)-†-1, elicietur 2y-abzo, seu χεῖ-Ξ.
+Q. E. Ι.
+
+Co-
+

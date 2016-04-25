@@ -1,0 +1,45 @@
+IN FIGVRJS RECTJLINEIS. 143
+
+Solutia
+
+Quamuis ‘ex solutione praecedentis problematis aper·-
+tum fiat latera in hoc caiu circa angulum datum Α αο-
+qua'lia effe debere, tamen lubet hoc et analytice demon...
+strati. Sit igitur perimeret trianguli za, Asszx,
+AC: , proindeque Beza—x—y. Sit porro finus
+anguli ΒΑΕ-τηε. Area trianguli, vi prioris lemmatiS,
+
+erit Ἓξ), qua pofita maxima, QQ differentiale
+ipfius ’Ψ aequale erit nihilo, consequenter ydxz—xdy,
+
+et dxx-’'—J-‘ff-y. Nunc vero per posterius lemma, BC2,
+
+seu aa—zax—zay÷2xy:—2xyV(1—mm)‚ cuius
+aequationisssifferentict est xdy—-l—ydx--adx—adyz(—
+xdy—ydx)V(1—mm)‚ seu dx(y-a-{-yV(1—-mm))
+:dy(a—x—-xV(1—mm), in qua substituendo valo-
+rem 1ps1us dx modo inuentum, elicitur ,νεῖ-..1, valor
+autem x et y, exinde quod sint aequalia, indicatur.
+Cum enim vnusquisque angulorum in triangulo ΑΒΕ
+cognoscatur, quippe quod fit Isoscele5‚ perimeterque de·
+· tur, cognoscentur et latera. Si finus anguliACB‚ v. g.
+
+dicatur n, erit x, seu AB vel {ACZ m-‘i-nssn* et BC
+
+(17η
+
+:za-2xz4n422. Q. Ε. Ι.
+
+Corollarium.
+
+Ex hac ergo solutione perspicuum est, fi triangulum
+cuius et peripheria et angulus vnus dantur, quaeratur
+maxime capax, illud ficx effe construendum, vt latera
+circa angulum datum sint aequalia.
+
+Tom. IX. T Scho-
+
+ 
+
+ 
+

@@ -1,0 +1,41 @@
+IN FIGVRIS RECTILINEIS. 143
+
+Corollarium.
+
+Manifestum est erg0‚ dato vno latere summam duo·
+rum reliquorum in duas partes aequales effe secandam,
+quo triangulum exinde conflatum quam maximae fit ca-
+
+pacitatiS.
+
+Scholion.
+
+Haud quoque difficulter apertum sit, tum aream ffi-
+turam maximam, cum triangulum fuerit Isoscele5‚ fi pro
+data summa laterum AB, AC, supponatur filum eius- Figura ⁴2
+dem ,longitudinm cuius ambo extrema punc‘tis B et C
+lineae datae BC tanquam focis fint affixa, hocque filo
+
+describendam effe Ellipfin LAM. Notum est enim AN
+tum maximam fore, nempe dimidium axis coniugati,
+*cum AB fasta fuerit AC; at AN est altitudo trianguli,
+quae cum omnium maxima fit, dueta in dimidiam con-
+stantem BC, dabit aream maximam.
+
+Problema 3.
+
+· Data bast B C et angulo A inuenire AB et A C , ita mgna πθ
+vt triangulum flat maximum.
+
+Solutio.
+
+Sit data ΒΕΖ-τα et finus anguli BACZW. Sit
+porro ΑΒΖ] et Asz. Superioribus infistendo ve-
+stigiiS, area> trianguli ΑΒΕ, per prius lemma, fiet Ξ·
+Q. Ponatur nunc haec area maxima , erit differentiale
+
+*aas Q aequale nihilo, scilicet QQZO’ Pro*
+
+'⁰ ίίῑῠῖῑ-ἵξ’. Iam ex altero lemmate orietur ae-
+quatio,
+

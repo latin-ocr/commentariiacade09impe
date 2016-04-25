@@ -1,0 +1,50 @@
+“ ΙΝ FIGVRIS RECTILINEIS. 1 ς 3
+
+BC² valorem, x et y determina buntur. Sed praestat
+ipsam BC inuestigare, cum stati m deueniatur ad aequa-
+t'ionem cubicam in qua secundus terminus deest. Co-
+
+gnita vero BC, x et y dantur. Q. E. Ι.
+Si angulus B datus sufflet, V. gr. -η, prodiisset
+---AD (smu anguli C pofito -x). ·
+
+*Kx-xx 90)*-
+Proh} ema 4,
+
+Datis tribus lateribus A Β, Α C, C D, inuenire quar·-
+tum BD, areamque maximam.
+
+ 
+
+Solutio.
+
+Retentis iisdem late-rum denommanor 1bus area qua·-
+(α ὀψε-σωκ
+
+ 
+
+drilateri ABCD per prxus lemma fic explimetur
+existente x finu anguli BAC, vel BDC: cum pezr so-
+
+lutionem problematis primi de quadrilateris pateat hoc .
+
+in casu quadri-laterum, fi maxime fit caan, circulo in-
+scribi poffe3 proindeque angulorum EAG, vel BDC
+vnum eundemque effe smum. Vtrique pariter idem erit
+coslum, nifi quod alter alterius respe&u negatiuus fit.
+Quare BC2 erit (per lemma secundum) :a2-4-b2-Q—2ab
+V( 1 -xx):c²-†-y²-=-2 cyV( 1 —xx). Differentiatis his
+aequationibus‚ prodit dy(c(1—xx)-y1s(1-xx)):x
+
+dx(ab·-÷-cy); locoque dx substituto {bc-{⁰¹0} ipfius va-
+lore desumto ex aequationis <AR—{5295 faustae maximae,
+
+differentiatione3 obtinetur tandem 0·:yV(1-—xx)· EX
+qua patefit angulum BCD reitum efficiendum esse; cum
+02,2='-’-‘V(1—xx):1. Vt denique-y innotescat, ex du-
+
+Tom. IX. V plici
+x ι
+
+ 
+

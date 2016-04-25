@@ -1,0 +1,36 @@
+IN FIGVRIS RECTILINEIS. 147
+
+Corollarium.
+
+Hinc perspicere licet lineam cx qua conficiendum
+effet triangulum maximum in tres partes aequales fore
+secandam, seu quod eodem recidit, ex omnibus triangulis-
+Isoperimetris, aequilaterum inuoluere maximam aream„
+
+Scholion.
+
+Cum· e'x praecedenti problema-te inferri poffet triflu-
+gulum cuius p‘erim-eter datur, quodque maximum esse
+debet, ad minimum duo latera habiturum aequalia, li-
+quido inde apparet omnia latera fore aequalia. Nulla
+enim subest causa -cur potius AB et AC, quam AC et
+BC, vel AB et BC aequalia censeri debeant5, cumque
+eodem iure de quibusuis lateribus idem dici poffit , se-
+quitur *omnia latera effe aequalia.
+
+'Hastenus est quod de triangulis dici queat. De
+›quadrilaterIS nunc videndum est quo ⁴casu maximam nan-
+ciscantur aream. Nihil in hoc defiderandum confide»,
+solutis septem subsequentibus problematis,
+
+DE QVADRILATERIS.
+
+problema 1.
+Datis quatuor lineIs A Β ., AC ‚ DC ‚ DB , determinare Figura x·
+Quadrilaterztm ex ,iis formatum quod maximam habeat
+aream.
+Ι Solutio.
+Sit Α Βῖα9 AC:b‚ DC:c‚ DB-:e3 finus an-
+guli BA C εκ, finusque anguli BD C :z y. Ducatur por-
+T 2 ro
+
